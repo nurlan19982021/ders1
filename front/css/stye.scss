@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.headers{ 
+    position: fixed;
+    width: 100%;
+.header{
+    margin: 1.5rem 0;
+    position: fixed;
+    width: 80%;
+   
+  
+    
+
+    .sol{
+       width: 20%;
+
+    }
+    .sag{
+        display: flex;
+        justify-content: flex-end;
+        width: 80%;
+        a{
+            transition: 0.5s;
+            text-decoration: none;
+            margin-left: 50px;
+            color: beige;
+            font-size: 15px;
+            &:hover{
+                color: #fed136;
+            }
+        }
+    }
+}
+}
+.img{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/header-bg.jpg);
+    background-position: center;
+    padding: 15rem 0;
+text-align: center;
+p{
+    color: #fff;
+    font-size: 36px;
+
+}
+h1{
+    color: #fff;
+    font-size: 76px;
+    
+}
+button{
+    border: none;
+    color: #ffffff;
+    padding: 20px 40px;
+    background-color: #fed136;
+    font-size: 18px;
+    margin-top: 30px;
+    border-radius: 3px;
+}
+}
+.oll{
+    margin-bottom: 70px;
+    h2{
+        font-size: 40px;
+        color: #000000;
+    }
+    h3{
+        font-size: 16px;
+        color: #464242;
+    }
+    .boxs{
+        margin-top: 90px;
+        .box{
+            i{
+                font-size: 55px;
+                color: #ffffff;
+                padding: 30px;
+                border-radius: 100%;
+                background-color: #fed136;
+            }
+            h4{
+                margin: 15px 0;
+                color: #000000;
+                font-size: 24px;
+
+            }
+            p{
+                color: #464242;
+                font-size: 16px;
+
+            }
+
+        }
+    }
+}
+.all{
+    padding: 3rem 0;
+    background-color: #e0e5e9;
+    h2{
+       
+        font-size: 40px;
+        color: #000000;
+    }
+    h3{
+        font-size: 16px;
+        color: #464242;
+    }
+    .boox{
+        margin-top: 80px;
+
+        .boxx{
+             margin-top: 40px;
+            padding-bottom: 20px;
+            background-color: #ffffff;
+            padding-left: 0;
+            padding-right: 0;
+            h2{
+                margin-top: 20px;
+                font-size: 24px;
+                color: black;
+            }
+            i{
+                
+                font-size: 16px;
+                color: #464242;
+            }
+        }
+    }
+
+}
+
+.son{
+    h2{
+       
+        font-size: 40px;
+        color: #000000;
+    }
+    h3{
+        font-size: 16px;
+        color: #464242;
+    }
+    .toll{
+        margin-top: 70px;
+    }
+    .tol{
+        margin-top: 4rem;
+        h3{
+            
+            font-size: 24px;
+            color: black;
+        }
+        p{
+            font-size: 16px;
+            color: #464242;
+        }
+        .imgs{
+            background-color: #fed136;
+            border-radius: 100%;
+            border: 6px solid #b1b1b1;
+            img{
+                border-radius: 100%;
+                h4{
+                    font-size: 18px;
+                    color: #000000;
+                    
+                }
+            }
+        }
+    }
+}
+
+.end{width: 100%;
+    align-items: center;
+    margin-top: 90px;
+    margin-bottom: 20px;
+    .sol{
+
+        width: 33.333%;
+       p{
+           font-weight: 300;
+           font-size: 20px;
+           color: #000000;
+       } 
+    }
+    .orta{
+        text-align: center;
+        width: 33.33%;
+        i{
+            margin-left: 10px;
+            color: #fff;
+            background-color: #464242;
+            font-size: 20px;
+            padding: 10px;
+            border-radius: 100%;
+        }
+    }
+    .sag{
+        display: flex;
+        justify-content: flex-end;
+        width: 33.33%;
+        a{
+            color: #fed136;
+            font-size: 15px;
+            margin-left: 30px;
+           
+        }
+    }
+}
+
+

@@ -1,0 +1,238 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.headers {
+  position: fixed;
+  width: 100%;
+}
+
+.headers .header {
+  margin: 1.5rem 0;
+  position: fixed;
+  width: 80%;
+}
+
+.headers .header .sol {
+  width: 20%;
+}
+
+.headers .header .sag {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  width: 80%;
+}
+
+.headers .header .sag a {
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  text-decoration: none;
+  margin-left: 50px;
+  color: beige;
+  font-size: 15px;
+}
+
+.headers .header .sag a:hover {
+  color: #fed136;
+}
+
+.img {
+  background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/header-bg.jpg);
+  background-position: center;
+  padding: 15rem 0;
+  text-align: center;
+}
+
+.img p {
+  color: #fff;
+  font-size: 36px;
+}
+
+.img h1 {
+  color: #fff;
+  font-size: 76px;
+}
+
+.img button {
+  border: none;
+  color: #ffffff;
+  padding: 20px 40px;
+  background-color: #fed136;
+  font-size: 18px;
+  margin-top: 30px;
+  border-radius: 3px;
+}
+
+.oll {
+  margin-bottom: 70px;
+}
+
+.oll h2 {
+  font-size: 40px;
+  color: #000000;
+}
+
+.oll h3 {
+  font-size: 16px;
+  color: #464242;
+}
+
+.oll .boxs {
+  margin-top: 90px;
+}
+
+.oll .boxs .box i {
+  font-size: 55px;
+  color: #ffffff;
+  padding: 30px;
+  border-radius: 100%;
+  background-color: #fed136;
+}
+
+.oll .boxs .box h4 {
+  margin: 15px 0;
+  color: #000000;
+  font-size: 24px;
+}
+
+.oll .boxs .box p {
+  color: #464242;
+  font-size: 16px;
+}
+
+.all {
+  padding: 3rem 0;
+  background-color: #e0e5e9;
+}
+
+.all h2 {
+  font-size: 40px;
+  color: #000000;
+}
+
+.all h3 {
+  font-size: 16px;
+  color: #464242;
+}
+
+.all .boox {
+  margin-top: 80px;
+}
+
+.all .boox .boxx {
+  margin-top: 40px;
+  padding-bottom: 20px;
+  background-color: #ffffff;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.all .boox .boxx h2 {
+  margin-top: 20px;
+  font-size: 24px;
+  color: black;
+}
+
+.all .boox .boxx i {
+  font-size: 16px;
+  color: #464242;
+}
+
+.son h2 {
+  font-size: 40px;
+  color: #000000;
+}
+
+.son h3 {
+  font-size: 16px;
+  color: #464242;
+}
+
+.son .toll {
+  margin-top: 70px;
+}
+
+.son .tol {
+  margin-top: 4rem;
+}
+
+.son .tol h3 {
+  font-size: 24px;
+  color: black;
+}
+
+.son .tol p {
+  font-size: 16px;
+  color: #464242;
+}
+
+.son .tol .imgs {
+  background-color: #fed136;
+  border-radius: 100%;
+  border: 6px solid #b1b1b1;
+}
+
+.son .tol .imgs img {
+  border-radius: 100%;
+}
+
+.son .tol .imgs img h4 {
+  font-size: 18px;
+  color: #000000;
+}
+
+.end {
+  width: 100%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 90px;
+  margin-bottom: 20px;
+}
+
+.end .sol {
+  width: 33.333%;
+}
+
+.end .sol p {
+  font-weight: 300;
+  font-size: 20px;
+  color: #000000;
+}
+
+.end .orta {
+  text-align: center;
+  width: 33.33%;
+}
+
+.end .orta i {
+  margin-left: 10px;
+  color: #fff;
+  background-color: #464242;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 100%;
+}
+
+.end .sag {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  width: 33.33%;
+}
+
+.end .sag a {
+  color: #fed136;
+  font-size: 15px;
+  margin-left: 30px;
+}
